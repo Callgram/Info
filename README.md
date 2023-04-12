@@ -104,8 +104,6 @@ Then, please *detail* your issue, create an issue or submit it to our [group](ht
 
 If you experience a *crash*, you also need to click on the version number at the bottom of the settings and select "Enable Log" and send it to us.
 
-### Adding a new language
+### Privacy Policy
 
-First and foremost, Android must already support the specific language and locale you want to add. We cannot work with languages that Android and the SDK do not support, the tools simply break down. Next, if you are considering adding a country-specific variant of a language (e.g. de-AT), first make sure that the main language is well maintained (e.g. de). Your contribution might be useful to more people if you contribute to the existing version of your language rather than the country-specific variant.
-
-Anyone can create a new language via Weblate.
+Callgram will not share any user data or device information with anyone. It is based on the official Telegram, so in order to learn more about it, please check [Telegram Privacy Policy](https://telegram.org/privacy)
